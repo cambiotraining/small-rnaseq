@@ -1,0 +1,6 @@
+book:
+  chapters:
+    # material developers - add parts and links to chapters as needed
+    - part: "Part I"
+      chapters:
+        - materials/00-template.md
